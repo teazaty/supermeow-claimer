@@ -7,3 +7,7 @@ Referral link: [Supermeow](https://t.me/supermeow_vip_bot?start=5914982564)
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
 [Smart Airdrop](https://t.me/smartairdrop2120)
+
+### Note
+
+How to get auth data: Choose `Network` tab in DevTools. Filter `info` or `balances`
