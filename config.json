@@ -1,1 +1,4 @@
-{ "is_on_chain": "false" }
+{
+  "auto-check-in": "true",
+  "auto-do-task": "true"
+}
