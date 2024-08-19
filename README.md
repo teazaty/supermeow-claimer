@@ -26,7 +26,7 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 ## ⚠️ Note
 
 - Get auth data in the `Network` tab in DevTools.
-  - `Network` >> Filter `info` or `balances` >> `Payload` >> `auth_data`
+  - `Network` --> Filter `info` or `balances` --> `Payload` --> `auth_data`
   - Starts with `%7B%22query_id%22...`
 - Auto features: Change `false` to `true` in the `config.json` file.
 - Supported commands: `/run_bot` `/proxy` `/proxy_web` (Join group to use these commands).
